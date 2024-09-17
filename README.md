@@ -76,16 +76,14 @@ This graph helps to identify any trends or patterns in academic performance base
 ## ⚙️ Installation & Setup
 
 ### Requirements:
-- **Python 3.x**
-- **Pandas** (`pip install pandas`)
-- **Matplotlib** (`pip install matplotlib`)
-- **Seaborn** (`pip install seaborn`)
+- **Python 3**
+- **Pandas** (import pandas as pd)
+- **Matplotlib** (import matplotlib.pyplot as plt)
 - **Jupyter Notebook** (or any compatible environment)
 
 ### How to Run:
 1. **Download** the `Experiment.4.PA4.Leynes.ipynb` file and `board2.xlsx` dataset into a directory.
 2. Open a terminal and run:
-   ```bash
    jupyter notebook
 
 ### Downloadables:
