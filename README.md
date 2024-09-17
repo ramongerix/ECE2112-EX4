@@ -32,7 +32,7 @@ The `board2.xlsx` dataset contains academic performance information  of 30 Elect
 |----------------|---------------------------------------------------------------------|
 | Name           | Identifier for each student (anonymized as S1, S2, etc.)            |
 | Gender         | Gender of the student (Male/Female)                                 |
-| Track          | The educational track chosen by the student (e.g., Instrumentation, Communication) |
+| Track          | The Electronics Engineering specialization track chosen by the student (e.g., Instrumentation, Communication) |
 | Hometown       | The region where the student is from (Luzon, Visayas, Mindanao)      |
 | Math           | Student's score in Mathematics                                      |
 | Electronics    | Student's score in Electronics                                      |
