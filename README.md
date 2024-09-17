@@ -61,15 +61,15 @@ The `board2.xlsx` dataset contains academic performance information  of 30 Elect
 
 ### 📊 Data Visualization
 
-In the final part of the notebook, a **bar chart** visualizes the performance of students across different subjects, grouped by their educational track. This visualization clearly compares how students in different tracks perform in **Math**, **Electronics**, **GEAS**, and **Communication**.
+In the final part of the notebook, a **bar chart** visualizes the performance of board takers across different subjects, grouped by their Electronics Engineering specialization track. This visualization compares how board takers in different tracks perform in **Math**, **Electronics**, **GEAS**, and **Communication**.
 
 #### Graph Explanation:
 
 - The **x-axis** represents the different subjects: Math, Electronics, GEAS, and Communication.
 - The **y-axis** represents the scores obtained by the students in each subject.
-- The data is grouped by **Track** (Instrumentation and Communication), allowing a comparison of average scores between students pursuing different educational tracks.
+- The data is grouped by **Track** (Instrumentation and Communication), allowing a comparison of average scores between takers pursuing different Electronics Engineering specialization tracks.
 
-This graph helps to identify any trends or patterns in academic performance based on the student's track.
+This graph helps identify any trends or patterns in academic performance based on the examiners' track.
 
 ---
 
